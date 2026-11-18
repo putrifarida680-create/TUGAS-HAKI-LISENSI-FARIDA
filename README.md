@@ -20,5 +20,5 @@ Teh Kataji adalah aplikasi penjualan online yang dirancang untuk membantu pedaga
    - Nama Brand: Teh Kataji
    - Logo & Elemen Visual: Logo ikon berbentuk logo Teh Kataji
    - [Logo: TEH KATAJI]
-   - <img src=>"IMG-20261018-WA0010(1).jpg"</img>
+     <img src=""></img>
    - Fungsi Perlindungan: Mencegah pengembang lain membuat aplikasi serupa dengan nama atau logo yang membingungkan konsumen.
